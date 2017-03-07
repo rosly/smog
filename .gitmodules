@@ -1,0 +1,4 @@
+[submodule "smog-linux"]
+	path = smog-linux
+	url = git@github.com:rosly/smog-linux.git
+	branch = smog-orange-pi-4.10
